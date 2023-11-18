@@ -1,6 +1,6 @@
 # Harvard Certifications
 
-https://harvard-kev.netlify.app/
+# https://harvard-kev.netlify.app/
 
 # PROFESSIONAL CERTIFICATE Computer Science for Python Programming
 
